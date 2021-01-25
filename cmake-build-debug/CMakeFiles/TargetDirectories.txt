@@ -1,0 +1,6 @@
+/Users/guosujie/00_Project/vio/vins_course/VINS-Course/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/guosujie/00_Project/vio/vins_course/VINS-Course/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/guosujie/00_Project/vio/vins_course/VINS-Course/cmake-build-debug/CMakeFiles/testCurveFitting.dir
+/Users/guosujie/00_Project/vio/vins_course/VINS-Course/cmake-build-debug/CMakeFiles/MyVio.dir
+/Users/guosujie/00_Project/vio/vins_course/VINS-Course/cmake-build-debug/CMakeFiles/run_euroc.dir
+/Users/guosujie/00_Project/vio/vins_course/VINS-Course/cmake-build-debug/CMakeFiles/camera_model.dir
